@@ -18,7 +18,7 @@ Below we have visualized how our equivariant manifold flows learn the `boyda1` a
 
 SU(3) Boyda1             |  SU(3) Boyda2 
 :-------------------------:|:-------------------------:
-![SU(3) Boyda1](https://media.giphy.com/media/6YQxvmqW530FdoBKUJ/giphy-downsized-large.gif)| ![SU(3) Boyda2](https://media.giphy.com/media/7p3PBzoD5XYdfwCFfK/giphy.gif)
+![SU(3) Boyda1](https://media1.giphy.com/media/2fNL3lv0aNt0Xn8PE4/giphy.gif)| ![SU(3) Boyda2](https://media.giphy.com/media/7p3PBzoD5XYdfwCFfK/giphy.gif)
 
 ## Software Requirements
 This codebase requires Python 3 and PyTorch 1.8+.
