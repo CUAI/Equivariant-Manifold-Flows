@@ -77,7 +77,7 @@ If you use this code or our results in your research, please cite:
 ```
 @article{Katsman2021EquivariantMF,
   title={Equivariant Manifold Flows},
-  author={Isay Katsman and Aaron Lou and D. Lim and Qingxuan Jiang and Ser-Nam Lim and Christopher De Sa},
+  author={Isay Katsman and Aaron Lou and Derek Lim and Qingxuan Jiang and Ser-Nam Lim and Christopher De Sa},
   journal={ArXiv},
   year={2021},
   volume={abs/2107.08596}
