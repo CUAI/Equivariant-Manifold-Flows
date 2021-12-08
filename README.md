@@ -37,7 +37,7 @@ Note that 1024 samples are used per epoch. 200 epochs were used for the results 
 
 Ground Truth             |  Ours (50 epochs)         |    Ours (200 epochs)
 :-------------------------:|:-------------------------:|:---------------------:
-![SU(3) GT](https://i.imgur.com/0SNBMQe.png)| ![SU(3) 50 epochs](https://i.imgur.com/RDSe1O7.png) | ![SU(3) 200 epochs](https://i.imgur.com/oVNKrxo.png)
+![SU(3) GT](https://i.imgur.com/eJOVxV3.png)| ![SU(3) 50 epochs](https://i.imgur.com/RDSe1O7.png) | ![SU(3) 200 epochs](https://i.imgur.com/oVNKrxo.png)
 
 Observe that even after 50 epochs (only approximately 50,000 samples), our model approaches the ground truth.
 
